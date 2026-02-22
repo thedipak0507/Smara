@@ -57,8 +57,7 @@ Smara is moving out of prototype and actively seeking pilot partners for impactf
 Add your demo and comparison video links or embeds here to showcase Smara in action:
 - **Demo Video:** 
 
-- **Comparison Video:** 
-https://github.com/user-attachments/assets/c104e347-3b5c-46a7-97c7-f6a021dd1d3d
+- **Comparison Video:** (https://github.com/user-attachments/assets/c104e347-3b5c-46a7-97c7-f6a021dd1d3d)
 
 ## 💬 Feedback
 We value your feedback — product, demo, or research suggestions help steer Smara's roadmap. Share feedback via email.
