@@ -58,7 +58,7 @@ Add your demo and comparison video links or embeds here to showcase Smara in act
 - **Demo Video:** 
 
 - **Comparison Video:**
-  https://github.com/user-attachments/assets/c104e347-3b5c-46a7-97c7-f6a021dd1d3d
+  [https://github.com/user-attachments/assets/c104e347-3b5c-46a7-97c7-f6a021dd1d3d](https://github-production-user-asset-6210df.s3.amazonaws.com/217590153/553169186-c104e347-3b5c-46a7-97c7-f6a021dd1d3d.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260222T103117Z&X-Amz-Expires=300&X-Amz-Signature=34eb99ea38a33529efdc07dc9da4c0471f094deb265bf7d1200fee7f6c566acb&X-Amz-SignedHeaders=host)
 
 ## 💬 Feedback
 We value your feedback — product, demo, or research suggestions help steer Smara's roadmap. Share feedback via email.
