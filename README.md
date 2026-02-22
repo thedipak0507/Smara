@@ -1,4 +1,4 @@
-# 🧠 Smara: The Offline-First Neural Avatar Engine
+# 👾 Smara: The Offline-First Neural Avatar Engine
 
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 ![Architecture](https://img.shields.io/badge/Architecture-CPU%20Only-blue)
