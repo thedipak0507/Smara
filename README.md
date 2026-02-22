@@ -7,9 +7,6 @@
 **Website:** https://smara.space
 
 
-https://github.com/user-attachments/assets/4e14220f-4283-4b3a-b56f-23a2d827247e
-
-
 # Smara
 Smara: An Offline-first AI avatar engine designed to run real-time, ultra-realistic digital humans locally on a single CPU. No GPU or cloud required.
 
